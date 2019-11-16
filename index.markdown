@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![pic](images/bloggerPic.jpg)
