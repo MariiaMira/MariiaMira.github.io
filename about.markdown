@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi and welcome to my personal blog. My name is Maria Roze, I am combining work and studies, which is not easy sometimes. 
+Currently I am a student of Linneaus University and reading a program in web programing. My first university degree is in linguistics, 
+I have always liked languages and that is one of my hobbies: I like to teach and read different articles in linguistics.
+Another hobby is literature,I really enjoy reading and discussing books, mostly classic literature.
