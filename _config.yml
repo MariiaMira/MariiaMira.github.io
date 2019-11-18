@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website was created by Maria Roze for submissions of future tasks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mariiamira.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-image: images/myPhoto_share.jpg
+image: /images/myPhoto.jpg
 facebook_username: rozmariia
 github_username:  mariiamira
 
