@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
 ---
-[pic](images/bloggerPic.jpg)
+
+
+![pic](images/bloggerPic1.jpg)

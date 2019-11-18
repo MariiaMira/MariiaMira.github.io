@@ -1,0 +1,19 @@
+---
+layout: post
+title: Comments
+date: 2019-11-17
+---
+
+How did you implements comments to blog posts?
+
+Luckily Jekyll has plugins for allowing comments on the pages. Apart from that there is a file disqus_comments.html in *_includes* folder that has all the settings and script
+If-statement code is used then in post layout which tells that if there is a disqus shortname, then comments will be included in post's layout.
+
+Thus, all I needed to do is to sign up on disqus page and add two lines of code in my config file:
+
+~~~~
+disqus:
+  shortname: mariia-roze-blog
+~~~~
+
+to "inform" about my disqus shortname and then disqus_comments.html is included into the layout.
